@@ -106,10 +106,10 @@ sudoku-c/
 
 ## Autor
 
-**Seu Nome**
+**Maria Clara Miranda**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- E-mail: seu-email@exemplo.com
+- GitHub: [maria-clara-dev13](https://github.com/maria-clara-dev13)
+- E-mail: mirandaclara03@gmail.com
 
 ## Licença
 
