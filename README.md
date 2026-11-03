@@ -110,7 +110,3 @@ sudoku-c/
 
 - GitHub: [maria-clara-dev13](https://github.com/maria-clara-dev13)
 - E-mail: mirandaclara03@gmail.com
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
